@@ -5,7 +5,14 @@
 - 
 - ⚡ Fun fact: If there was a computer as powerful as the _human brain_, it would be able to do 38 thousand trillion operations per second and hold more than _3580 terabytes_ of memory.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcodecraftz&theme=dracula&show_icons=true&hide_border=true&border_radius=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcodecraftz&theme=dracula&show_icons=true&hide_border=true&border_radius=6)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcodecraftz&hide_border=true&theme=dracula&border_radius=6)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 
 > The Question Whether Computers Can Think is Like The Question of Whether Submarines Can Swim. 
