@@ -6,7 +6,7 @@
 
 > The Question Whether Computers Can Think is Like The Question of Whether Submarines Can Swim. 
 
-\- Edsger W. Dijkstra 
+  \- Edsger W. Dijkstra 
 
 
 
