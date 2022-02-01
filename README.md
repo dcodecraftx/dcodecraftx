@@ -1,7 +1,7 @@
 - 🔭 I’m currently working on my Neovim, and DWM Configurations.  
 - 🌱 I’m currently learning C++, HTML, and Python.
 - 📫 How to reach me: cannedocean@protonmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he / him
 - ⚡ Fun fact: If there was a computer as powerful as the _human brain_, it would be able to do 38 thousand trillion operations per second and hold more than _3580 terabytes_ of memory.
 
 > The Question Whether Computers Can Think is Like The Question of Whether Submarines Can Swim. 
