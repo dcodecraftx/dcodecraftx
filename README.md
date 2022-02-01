@@ -1,4 +1,5 @@
-### Hi there 👋
+> The Question whether Computer Can Think is Like The Question of Whether Submarines Can Swim. 
+\- Edsger W. Dijkstra 
 
 <!--
 **dcodecraftz/dcodecraftz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
