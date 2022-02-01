@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on my Neovim, and XMonad Configurations.  
+- 🔭 I’m currently working on my Neovim, and DWM Configurations.  
 - 🌱 I’m currently learning C++, HTML, and Python.
 - 📫 How to reach me: cannedocean@protonmail.com
 - 😄 Pronouns: he/him
