@@ -9,6 +9,7 @@
 - ⚡ Fun fact: If there was a computer as powerful as the _human brain_, it would be able to do _38 thousand trillion operations per second_ and hold more than _3580 terabytes_ of memory.
 
 
+
 > The Question Whether Computers Can Think is Like The Question of Whether Submarines Can Swim. 
 
   \- Edsger W. Dijkstra 
