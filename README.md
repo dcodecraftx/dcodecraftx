@@ -13,7 +13,7 @@
 
   \- Edsger W. Dijkstra 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcodecraftz&theme=dracula&show_icons=true&hide_border=true&border_radius=6)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcodecraftx&theme=dracula&show_icons=true&hide_border=true&border_radius=6)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
