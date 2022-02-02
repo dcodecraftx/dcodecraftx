@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning C++, HTML, CSS, and Shell Scripting.
 - 📫 How to reach me: cannedocean@protonmail.com
 - 😄 Pronouns: he / him
-- goal_net 2022 Goals: Get into programming, and Start an open source project. 
+- 2022 Goals: Get into programming, and Start an open source project. 
 - ⚡ Fun fact: If there was a computer as powerful as the _human brain_, it would be able to do _38 thousand trillion operations per second_ and hold more than _3580 terabytes_ of memory.
 
 
