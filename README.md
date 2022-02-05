@@ -16,6 +16,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcodecrzft&theme=dracula&show_icons=true&hide_border=true&border_radius=6)](https://github.com/anuraghazra/github-readme-stats) 
 
 
+![image](https://user-images.githubusercontent.com/93866277/152635491-5ccff41e-310d-49b6-81f8-fdac61d1828a.png)
 
 <!-- 
 Here are some ideas to get you started:
